@@ -46,5 +46,4 @@ left_space < 0.50m and right_space < 0.50m → BACKWARD
 
 3.0초 초과 + 앞이 막힘 → BACKWARD로 강제 탈출
 
-```python
-class CmdVelStateMachine(Node):
+
